@@ -1,0 +1,276 @@
+﻿Decreases time to consume items
+Increases time to consume items
+Adds paintball effect on all large monsters.
+Adds paintball effect on all large monsters and tells you when they can be captured.
+Upon death increases attack and defense, up to 2 times.
+Attack up small           +2% Attack.
+Attack up medium       +4% Attack.
+Attack up large           +6% Attack.
+Attack up extra large   +8% Attack.
+Attack up massive     +10% Attack.
+Attack down small.
+Attack down medium.
+Attack down large.
+Attack down extra large.
+Shows when paintballed monsters can be captured.
+Increases stamina recovery rate.
+Greatly increases stamina recovery rate.
+Massively increases stamina recovery rate.
+Decreases stamina recovery rate.
+Greatly decreases stamina recovery rate.
+Increases damage when you hit weak points.
+HP up small.
+HP up medium.
+HP up large.
+HP up extra large.
+HP up massive.
+HP down small.
+HP down medium.
+HP down large.
+HP down extra large.
+Health recovery speed up small.
+Health recovery speed up medium.
+Health recovery speed up large.
+Health recovery speed down small.
+Health recovery speed down medium.
+Health recovery speed down large.
+Increases trap placing speed.
+Increases all elemental damage, e.g.: fire, water, ice, electric, dragon.
+Element up medium.
+Element up large.
+Element down.
+Immune to paralysis.
+Paralysis duration doubled.
+Increases all status damage, e.g.:paralysis, poison, sleep.
+Status up medium.
+Status up large.
+Status down.
+Not sure. Something about less stamina used
+Not sure. Something about less stamina used
+Decreases stamina consumption.
+Greatly decreases stamina consumption.
+Increases stamina consumption.
+Critical rate up small.
+Critical rate up medium.
+Critical rate up large.
+Critical rate up extra large.
+Critical rate up massive.
+Critical rate down small.
+Critical rate down medium.
+Critical rate down large.
+Critical rate down extra large.
+Immune to odour.
+Halves stun duration.
+Immunity to stun.
+Doubles stun duration.
+Increases breaking damage.
+Greatly increases breaking damage.
+When HP is low, increases defense.
+When HP is low, increases defense and attack.
+When HP is low, greatly increases defense and attack.
+When HP is low, decreases defense and attack.
+Immunity to quakes.
+Gives a chance to reduce damage taken.
+Gives a high chance to reduce damage taken.
+Gives a chance to increase damage taken.
+Gives a high chance to increase damage taken.
+Decreases the rate at which your max stamina drops.
+Your max stamina never drops.
+Increases the rate at which your max stamina drops.
+When there are members of the opposite sex in your party, your attack increases.
+When monsters are angry, increases your attack.
+When monsters are angry, significantly increases your attack.
+Immunity to small wind pressure.
+Immunity to small and large wind pressure.
+Immunity to small, large, and elder dragon’s dragon wind pressure.
+After not dealing a critical strike for a while, your next attack will do critical damage.
+A portion of your healing potions’ effects are transferred to teammates within a small range.
+A large portion of your healing potions’ effects are transferred to teammates in the same area.
+A large portion of your healing potions’ and meat’s effects are transferred to teammates in the same area.
+Reduces the rate of your sharpness consumption.
+Greatly reduces the rate of your sharpness consumption.
+Increases the rate of your sharpness consumption.
+At high HP values, your attack is increased and your defense is decreased.
+Increases movement speed when carrying eggs, and immunity to theft.
+Immunity to weather effects e.g.: heat and cold.
+Defense up small.
+Defense up medium.
+Defense up large.
+Defense up extra large.
+Defense up massive.
+Defense down small.
+Defense down medium.
+Defense down large.
+Defense down extra large.
+Reduces stamina consumption when evading
+Medium stamina consumption reduction.
+Large stamina consumption reduction.
+Increases stamina consumption when evading
+Medium stamina consumption increase.
+Increases evade distance.
+Greatly increases evade distance.
+Immunity to sleep.
+Doubles sleep duration.
+Targeted less by monsters.
+Targeted more by monsters.
+When hit, chance to gain: small increase to affinity, <<Constitution +1>>, and <<Marathon Runner +1>> for 90 seconds.
+When hit, chance to gain: large increase to affinity, <<Constitution +2>>, and <<Marathon Runner +2>> for 90 seconds.
+Halves the duration of poison.
+Immunity to poison.
+Doubles the duration of poison.
+Your strikes will not bounce off.
+When your Ougi bar is filled your attack and defense is increased.
+Whetstone sharpening speed increased.
+Whetstone sharpening speed greatly increased.
+Within 10 seconds of taking damage the next attack will deal reduced damage, can only be activated every so often
+Within 15 seconds of taking damage the next attack will deal greatly reduced damage, can only be activated every so often
+At certain levels of HP, you will survive lethal attacks.
+Allows you to withstand the roars of some monsters.
+Allows you to withstand the roars of most monsters.
+Slightly increases damage to monsters not targeting you, but they will become more likely to target you.
+Increases damage to monsters not targeting you, but they will become more likely to target you.
+Increases strength of normal bullets and rapid arrows.
+Increases your water elemental damage.
+Water damage up medium.
+Water damage up large.
+Decreases your water elemental damage.
+Increases attack power of fire and ammunition fire
+much Increases attack power of fire and ammunition to fire
+massively increase the attack power of fire and ammunition to fire
+Decreases attack power of fire and fire ammunition.
+Increases attack power of lightning and thunder ammunition
+much Increases attack power of lightning and thunder ammunition
+massively increase the attack power of thunder and lightning ammunition
+Decreases attack power of thunder and lightning ammunition
+Increases the power of the dragon attacks and anti-dragon ammunition
+much Increases the power of dragon attacks and anti-dragon ammunition.
+massively increase the power of the dragon attacks and anti-dragon ammunition
+Decreases the power of dragon attacks and anti-dragon ammunition.
+Increases attack power of ice and ice ammunition
+much Increases attack power of ice and ice ammunition.
+massively increase the power of ice attacks and ammunition ice
+Decreases the power of ice and ice attacks ammunition.
+Great Sword, Hammer and Bow charge 20% faster, Dual Blades 50% faster, Longsword 20% faster
+Great Sword, Hammer and Bow charge 10% faster, Dual Blades 30% faster, Longsword 10% faster
+Great Sword, Hammer and Bow charge 5% faster, Dual Blades 15% faster, Longsword 5% faster
+Great Sword and Hammer charge more slowly
+Resistance to water, fire, electricity, dragon and ice increased
+Resistance to water, fire, electricity, dragon and ice increased heavily
+Resistance to water, fire, electricity, dragon and ice increased massively
+KO lasts longer
+When on full life, attack power increases by 6.8%
+Increased attack power against tripped monsters
+Slightly increased Gunlance shelling damage, slightly reduced Wyvern's Fire cooldown
+Increased Gunlance shelling damage, reduced Wyvern's Fire cooldown
+Small increase to Fire Res
+Medium increase to Fire Res
+Large increase to Fire Res
+Decrease to Fire Res
+Small increase to Water Res
+Medium increase to Water Res
+Large increase to Water Res
+Decrease to Water Res
+Small increase to Thunder Res
+Medium increase to Thunder Res
+Large increase to Thunder Res
+Decrease to Thunder Res
+Small increase to Ice Res
+Medium increase to Ice Res
+Large increase to Ice Res
+Decrease to Ice Res
+Small increase to Dragon Res
+Medium increase to Dragon Res
+Large increase to Dragon Res
+Decrease to Dragon Res
+Increased duration of Hunting Horn buffs
+Consuming healing items has a chance to increase Stamina
+Increases the amount of Health recovered by healing items
+Greatly increases the amount of Health recovered by healing items
+Healing items restore less Health
+Increases sharpness of melee weapons
+Allows blocking of otherwise unblockable attacks
+Small increase to blocking effectiveness
+Medium increase to blocking effectiveness
+Large increase to blocking effectiveness
+Prevents the Bleeding status ailment
+Eating Herbs greatly restores Health
+Prevents you from being covered in mud and snow
+Negates damage from hot areas
+Negates Stamina drain in cold areas
+Prevents monsters from recovering from Stun damage
++50% Affinity of draw attacks
++100% Affinity of draw attacks
+Reduces recoil when firing Bowguns
+Greatly reduces recoil when firing Bowguns
+Increases recoil when firing Bowguns
+Adds an extra volley to Light Bowgun rapid-fire salvoes
+Small increase to invincibility frames when evading
+Medium increase to invincibility frames when evading
+Large increase to invincibility frames when evading
+Increases damage of Piercing shots and arrows
+Increases damage of Pellet shots and Scatter arrows
+Allows of use of NormalS Lv1 and increases its clip size by 3
+Allows of use of NormalS Lv1/2 and increases their clip sizes by 3
+Allows of use of NormalS Lv1/2/3 and increases their clip sizes by 3
+Allows of use of PierceS Lv1 and increases its clip size by 3
+Allows of use of PierceS Lv1/2 and increases their clip sizes by 3
+Allows of use of PierceS Lv1/2/3 and increases their clip sizes by 3
+Allows use of PelletS Lv1 and increases its clip size by 2
+Allows use of PelletS Lv1/2 and increases their clip sizes by 2
+Allows use of PelletS Lv1/2/3 and increases their clip sizes by 2
+Small increase to Bowgun reload speed
+Medium increase to Bowgun reload speed
+Large increase to Bowgun reload speed
+Small decrease to Bowgun reload speed
+Large decrease to Bowgun reload speed
+Allows use of ClustS Lv1 and increases its clip size by 2
+Allows use of ClustS Lv1/2 and increases their clip sizes by 2
+Allows use of ClustS Lv1/2/3 and increases their clip sizes by 2
+Allows use of ParalysisS for Bowguns and ParalysisCt for Bows
+Allows use of SleepS for Bowguns and SleepCt for Bows
+Allows use of PoisonS for Bowguns and PoisonCt for Bows
+Increases size of all Bowgun clips by 1, unlocks a 4th charge level for Bows
+Increased damage against Bird Wyverns
+Increased damage against Fanged Beasts
+Increased damage against Carapaceans
+Increased damage against Flying Wyverns
+Increased damage against Elder Dragons
+Increased damage against Piscine Wyverns
+Infinite sharpness for 1 minute after whetstone use
+Sometimes you won't lose items upon consumption
+Increased elemental damage by 30% when monster is enraged
+Increased elemental damage by 45% when monster is enraged
+The number of rewards gained after a hunt is increased
+The number of rewards gained after a hunt is increased slightly
+The number of rewards gained after a hunt is increased very slightly
+The number of rewards gained after a hunt is decreased very slightly
+The number of rewards gained after a hunt is decreased slightly
+The number of rewards gained after a hunt is decreased
+Adrenaline+2 and Guts
+Sharpness+1 and Alk (L)
+Marathon Runner+2 and Constitution+1
+Increases Elemental Damage by 30% on vulnerable areas
+Evade Extender+1 & Evasion+2
+Increases invulnerability time while getting up
+Dramatically increase Elemental Res
+Significantly increase Elemental Res
+Slightly increase Elemental Res
+Slightly decrease Elemental Res
+Significantly decrease Elemental Res
+Dramatically decrease Elemental Res
+Allows your draw-attack to KO the monster
+Defense (L) & Defense Down Immunity
+Weakness Exploit & Critical Eye+2
+Guard+2 & Stam Recov+2
+Evade Extender+1 & Uscathed
+Negates all status effects
+Reduces knockdown, and gives Earplugs
+Attack (L) & Defense (L)
+Fortify & Adrenaline+2
+Autotracker, Speedsetup & Assassination+1
+Divine Blessing, See Through+2 & Defense (s)
+Sharp, High Speed Sharpening, Attack (s)
+Not affected by the climate
+Firing bullets/arrows has a chance to not consume ammo
+After getting hit, will slowly recover health for 20 seconds
+An additional 12% damage done with a crit

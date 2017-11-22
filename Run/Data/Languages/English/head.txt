@@ -1,0 +1,230 @@
+Prototype Caeserber Helm
+Prototype Caeserber Cap
+Prototype Velocidrome Helm
+Prototype Velocidrome Cap
+Prototype Bulldrome Helm
+Prototype Bulldrome Cap
+Prototype Yian Kut-Ku Helm
+Prototype Yian Kut-Ku Cap
+Prototype Gendrome Helm
+Prototype Gendrome Cap
+Prototype Baelidae Helm
+Prototype Baelidae Cap
+Prototype Yellow Caeserber Helm
+Prototype Yellow Caeserber Cap
+Prototype Gypceros Helm
+Prototype Gypceros Cap
+Prototype Congalala Helm
+Prototype Congalala Cap
+Prototype Chramine Helm
+Prototype Chramine Cap
+Prototype Cephadrome Helm
+Prototype Cephadrome Cap
+Prototype Hermitaur Helm
+Prototype Hermitaur Cap
+Prototype Blue Kut-Ku Helm
+Prototype Blue Kut-Ku Cap
+Prototype Khezu Helm
+Prototype Khezu Cap
+Prototype Basarios Helm
+Prototype Basarios Cap
+Prototype Hypnocatrice Helm
+Prototype Hypnocatrice Cap
+Prototype Gold Congalala Helm
+Prototype Gold Congalala Cap
+Prototype Dread Baelidae Helm
+Prototype Dread Baelidae Cap
+Prototype Purple Gypceros Helm
+Prototype Purple Gypceros Cap
+Prototype Shogun Ceanataur Helm
+Prototype Shogun Ceanataur Cap
+Prototype Blangonga Helm
+Prototype Blangonga Cap
+Prototype Estrellian Helm
+Prototype Estrellian Cap
+Caeserber Helm
+Caeserber Cap
+Velocidrome Helm
+Velocidrome Cap
+Bulldrome Helm
+Bulldrome Cap
+Yian Kut-Ku Helm
+Yian Kut-Ku Cap
+Gendrome Helm
+Gendrome Cap
+Baelidae Helm
+Baelidae Cap
+Yellow Caeserber Helm
+Yellow Caeserber Cap
+Gypceros Helm
+Gypceros Cap
+Congalala Helm
+Congalala Cap
+Chramine Helm
+Chramine Cap
+Cephadrome Helm
+Cephadrome Cap
+Hermitaur Helm
+Hermitaur Cap
+Iodrome Helm
+Iodrome Cap
+Blue Kut-Ku Helm
+Blue Kut-Ku Cap
+Khezu Helm
+Khezu Cap
+Basarios Helm
+Basarios Cap
+Hypnocatrice Helm
+Hypnocatrice Cap
+Gold Congalala Helm
+Gold Congalala Cap
+Dread Baelidae Helm
+Dread Baelidae Cap
+Purple Gypceros Helm
+Purple Gypceros Cap
+Shogun Ceanataur Helm
+Shogun Ceanataur Cap
+Blangonga Helm
+Blangonga Cap
+Estrellian Helm
+Estrellian Cap
+Giadrome Helm
+Giadrome Cap
+Ice Chramine Helm
+Ice Chramine Cap
+Silver Hypnocatrice Helm
+Silver Hypnocatrice Cap
+Ghost Caeserber Helm
+Ghost Caeserber Cap
+Swordmaster Shogun Ceanataur Helm
+Swordmaster Shogun Ceanataur Cap
+Crystal Basarios Helm
+Crystal Basarios Cap
+Akura Vashimu Helm
+Akura Vashimu Cap
+Yian Garuga Helm
+Yian Garuga Cap
+Red Khezu Helm
+Red Khezu Cap
+Monoblos Helm
+Monoblos Cap
+Doom Estrellian Helm
+Doom Estrellian Cap
+Rathian Helm
+Rathian Cap
+One-Eared Garuga Helm
+One-Eared Garuga Cap
+Shattered Monoblos Helm
+Shattered Monoblos Cap
+Conflagration Rathian Helm
+Conflagration Rathian Cap
+Tartaronis Helm
+Tartaronis Cap
+Shen Gaoren Helm
+Shen Gaoren Cap
+Red Shen Gaoren Helm
+Red Shen Gaoren Cap
+True Dawnwind Helm
+True Dawnwind Cap
+Slicemargl Helm
+Slicemargl Cap
+Lightenna Helm
+Lightenna Cap
+Rathalos Helm
+Rathalos Cap
+Tigrex Helm
+Tigrex Cap
+Plesioth Helm
+Plesioth Cap
+Diablos Helm
+Diablos Cap
+Azure Rathalos Helm
+Azure Rathalos Cap
+Akura Jebia Helm
+Akura Jebia Cap
+Kushala Daora Helm
+Kushala Daora Cap
+Sandstone Basarios Helm
+Sandstone Basarios Cap
+Golden Hypnoc Helm
+Golden Hypnoc Cap
+Pink Rathian Helm
+Pink Rathian Cap
+Merphistophelin Helm
+Merphistophelin Cap
+Flame Blangonga Helm
+Flame Blangonga Cap
+Chameleos Helm
+Chameleos Cap
+Lavasioth Helm
+Lavasioth Cap
+White Monoblos Helm
+White Monoblos Cap
+Purple Slicemargl Helm
+Purple Slicemargl Cap
+Rajang Helm
+Rajang Cap
+V.Tartaronis Helm
+V.Tartaronis Cap
+Gravios Helm
+Gravios Cap
+Ele Merphistophelin Helm
+Ele Merphistophelin Cap
+GonnGenn Hermitaur Helm
+GonnGenn Hermitaur Cap
+Rusted Kushala Daora Helm
+Rusted Kushala Daora Cap
+Yama Tsukami Helm
+Yama Tsukami Cap
+Zinogre Helm
+Zinogre Cap
+Onimusha Helm
+Onimusha Cap
+Arbiter Estrellian Helm
+Arbiter Estrellian Cap
+Barioth Helm
+Barioth Cap
+Deviljho Helm
+Deviljho Cap
+Kirin Helm
+Kirin Cap
+Lao-Shan Lung Helm
+Lao-Shan Lung Cap
+Caeserber Head S
+Velocidrome Head S
+Bulldrome Head S
+Yian Kut-ku Head S
+Gendrome Head S
+Baelidae Head S
+Yellow Caeserber Head S
+Gypceros Head S
+Congalala Head S
+Cephadrome Head S
+Chramine Head S
+Hermitaur Head S
+Ceanataur Head S
+Ghost Caeserber Head S
+Swordmaster Ceanataur Head S
+Ice Chramine Head S
+Yian Garuga Head S
+Basarios Head S
+Dread Baelidae Head S
+Gold Congalala Head S
+Blue Kut-Ku Head S
+Purple Gypceros Head S
+Khezu Head S
+Hypnocatrice Head S
+Blangonga Head S
+Red Khezu Head S
+Crystal Basarios Head S
+Silver Hypnocatrice Head S
+One-Eared Garuga Head S
+Lightenna Head S
+Pariapuria Head S
+Rathian Head S
+Monoblos Head S
+Shattered Monoblos Head S
+Akura Vashimu Head S
+Estrellian Head S
+Uragaan Head S
+Plesioth Head S

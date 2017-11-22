@@ -1,0 +1,646 @@
+﻿Monoblos Wing
+Monoblos Carapace
+Monoblos Thoracic
+Monoblos Medulla
+Monoblos Blood
+Rainbow Feather
+Fine Beastbone
+Fine Wyvernbone
+Stale Mushroom
+Mysterious Fluid
+Hideous Molar
+Smelter Treasure
+Bright Green Slime
+Bright Blue Slime
+Bright Yellow Hair
+Quality Pelt
+Electro Sac
+Rebuilder Jewel
+Sand Bag
+Lightcrystal
+Med Beast Bone
+Large Beast Bone
+Small Beast Bone
+Icy Claw
+Icy Skull
+Ice Crystal
+Ice Chramine Pelt+
+Ice Chramine Pelt
+Ice Chramine Leather
+Ice Chramine Wing
+Ice Chramine Hair
+Ice Chramine Molar
+Ice Chramine Nose
+Slicemargl Bracer
+Slicemargl Devileye
+Slicemargl Ripper
+Slicemargl Fur+
+Slicemargl Claw+
+Slicemargl Incisor
+Slicemargl Fang
+Slicemargl Blackfur
+Swordmaster Horn
+Swordmaster Wyvern Skull
+Swordmaster Water Sac
+Swordmaster Carapace
+Swordmaster Leg
+Swordmaster Pincer
+Swordmaster Claw
+Swordmaster Golden Pearl
+Blue Splendid Beak
+Worn Incisor+
+Sand Bad+
+Thick Tongue
+Thick Purple Tongue
+Heavy Stone Shell+
+Heavy Stone Shell
+Primal Rock
+Rotting Tooth
+Warped Lightcrystal
+Warped Novacrystal
+Metamorphic Fluid
+Elder Dragon Blood+
+Elder Dragon Blood
+Tartaronis Rockshell+
+Tartaronis Brace
+Tartaronis Boneshell
+Tartaronis Rockshell
+Tartaronis Boneplate
+Rotund Grasshopper
+Bulging Sleep Sac
+Snakebee Larvae
+Hard Sand Scale
+Hard Wyvern Skull
+Colourful Feather
+Earth Crystal
+Bulldrome Tusk
+Bulldrome Fang+
+Bulldrome Tusk+
+Bulldrome Fang
+Bulldrome Hoof+
+Bulldrome Bristles+
+Bulldrome Hoof
+Bulldrome Bristles
+Bullfango Fang
+Bullfango Hide
+Bullfango Hide+
+Bright Monster Fluid
+Enchanting Starlight
+Perfect Bone
+Perfect Purple Rubber
+Perfect Rubber
+Perfect Sleep Sac
+Ceanataur Horn
+Akura Vashimu Bristles
+Akura Vashimu Carapace
+Akura Vashimu Jaw
+Akura Vashimu Maw
+Akura Vashimu Venom Hair
+Akura Vashimu Tail
+Mountain Caterpillar
+Basarios Wing+
+Basarios Carapace
+Basarios Skull+
+Basarios Backplate+
+Basarios Chestplate+
+Basarios Skull
+Basarios Tears+
+Basarios Tears
+Basarios Shell
+Basarios Wing
+Basarios Backplate
+Basarios Chestplate
+Basarios Mossplate
+Blue Splendid Beak+
+Stink Sac
+Cephadrome Head
+Thunder Sac
+Webbed Foot
+Glimmering Fluid
+Kut-Ku Scale+
+Kut-Ku Wing+
+Kut-Ku Ear+
+Kut-Ku Carapace
+Kut-Ku Claw+
+Kut-Ku Tail
+Kut-Ku Claw
+Kut-Ku Wing
+Kut-Ku Wing Claw
+Kut-Ku Ear
+Kut-Ku Shell
+Kut-Ku Scale
+Smelly Dung
+Stink Sac+
+Ghost Caeserber Eye
+Ghost Caeserber Hide
+Ghost Caeserber Claw
+Ghost Caeserber Hide+
+Ghost Caeserber Tail
+Ghost Caeserber Fang
+Ghost Caeserber Claw+
+Broken Horn
+Flickering Starlight
+Shattered Monoblos Wing
+Shattered Monoblos Carapace
+Shattered Monoblos Thoracic
+Shattered Monoblos Medulla
+Shattered Monoblos Heart
+Shattered Monoblos Blood
+Shattered Monoblos Tail
+Breaker Claw
+Black Moon Crown
+Fresh Monster Fluid
+Sovereign Orb
+Star Dragonscale
+Starlight Fluid
+Butterfly Fluid
+Butterfly Horn+
+Butterfly Carapace
+Butterfly Wing
+Butterfly Feather
+Butterfly Wing+
+Butterfly Thorax
+Butterfly Horn
+Estrellian Carapace
+Estrellian Chestplate+
+Estrellian Horn+
+Estrellian Shell
+Estrellian Chestplate
+Estrellian Horn
+Crystal Basarios Wing
+Crystal Basarios Skull
+Crystal Basarios Carapace
+Crystal Basarios Backplate
+Crystal Basarios Chestplate
+Crystal Basarios Mossplate
+Crystal Sleep Fluid
+Killer Bee Larvae
+Loose Ore
+Golden Pearl+
+Bright Hair
+Crab Paste
+Electrical Extract
+Flabby Hide
+Congalala Hide+
+Congalala Bone+
+Congalala Bone
+Congalala Claw+
+Congalala Fang+
+Congalala Claw
+Congalala Fang
+Congalala Hide
+Conga Pelt+
+Conga Pelt
+Peach Scale+
+Peach Scale
+Pink Rathian Spike+
+Pink Rathian Scale+
+Pink Rathian Carapace
+Pink Rathian Medulla
+Pink Rathian Plate
+Conflagration Sac
+Orange Hair
+Rubbery Tail
+Rubbery Purple Hide+
+Rubbery Purple Hide
+Rubbery Green Tail
+Rubbery Green Tail+
+Rubbery Tail+
+Gypceros Hide+
+Gypceros Wing+
+Gypceros Beak
+Gypceros Beak+
+Gypceros Head+
+Gypceros Head
+Gypceros Hide
+Gypceros Wing
+Purple Gypceros Wing+
+Purple Gypceros Head+
+Purple Gypceros Head
+Purple Gypceros Wing
+Aquaglow Jewel
+Plesioth Fin
+Plesioth Scale
+Plesioth Skull
+Plesioth Venom
+Plesioth Webbing
+Plesioth Fang
+Fossilized Bone
+Sand Crystal
+Sand Dragongem
+Yellow Caeserber Hide
+Yellow Caeserber Tail Shell+
+Yellow Caeserber Claw+
+Yellow Caeserber Fang+
+Yellow Caeserber Incisor+
+Yellow Caeserber Tail Shell
+Yellow Caeserber Claw
+Yellow Caeserber Fang
+Yellow Caeserber Incisor
+Yellow Caeserber Hide+
+Chramine Hide+
+Chramine Wing+
+Chramine Crop+
+Chramine Crop
+Chramine Hide
+Chramine Nose
+Chramine Wing
+Chramine Molar
+Chramine Nose+
+Cephadrome Fat
+Cephadrome Hide+
+Cephadrome Sand Bag
+Cephadrome Sand Bag+
+Cephadrome Fang+
+Cephadrome Fang
+Cephadrome Hide
+Cephadrome Tail
+Cephalos Scale+
+Cephalos Scale
+Caeserber Hide+
+Caeserber Claw+
+Caeserber Fang+
+Caeserber Tail
+Caeserber Claw
+Caeserber Fang
+Caeserber Hide
+Acid Sac
+Sleep Sac
+Pale Fur
+Pale Gold Fur
+Golden Down
+Purple Venom
+Crimson Nail
+Warm Pelt
+Blue Bristle
+Pretty Beak
+Black Pearl+
+Dark Nail
+Damp Fur
+Red Mane
+Rathalos Scale+
+Rathalos Wing
+Rathalos Carapace
+Rathalos Medulla
+Rathalos Plate
+Akura Jebia Bristles
+Akura Jebia Carapace
+Akura Jebia Jaw
+Akura Jebia Pincer
+Akura Jebia Venom Hair
+Akura Jebia Tail
+Spiritstone
+Doom Dragonscale
+Flame Blangonga Crown
+Flame Blangonga Pelt
+Flame Blangonga Whisker
+Flame Blangonga Bone
+Flame Blangonga Claw
+Flame Blangonga Fang
+Gun Grit
+Gun Iron
+Conflagration Rathian Red Horn
+Conflagration Rathian Horn
+Conflagration Rathian Flame Spike
+Conflagration Rathian Scale
+Conflagration Rathian Wing
+Conflagration Rathian Claw
+Conflagration Rathian Carapace
+Conflagration Rathian Venom
+Conflagration Rathian Spike
+Conflagration Rathian Webbing
+Lava Chunk
+Lavasioth Fin+
+Lavasioth Scale+
+Lavasioth Carapace
+Lavasioth Tailfin
+Lavasioth Fang+
+Bird Gizzard
+Inferno Sac
+One-Ear Garuga Scale
+One-Ear Garuga Claw
+One-Ear Garuga Mane
+One-Ear Garuga Ear
+One-Ear Garuga Carapace
+One-Ear Garuga Spike
+One-Ear Garuga Webbing
+One-Ear Garuga Sm Scale
+Crimson Eye
+Crimson Tooth
+Pearly Hide
+Pearly Maw
+Pearly Webbing
+Pearly Toe
+Origin Jewel
+Lightenna Carapace
+Lightenna Tail
+Lightenna Jaw
+Lightenna Horn
+Lightenna Wing
+Khezu Wing+
+Khezu Sucker
+Khezu Fang+
+Khezu Sucker+
+Khezu Fang
+Khezu Wing
+White Monoblos Carapace
+White Monoblos Tailcase
+White Monoblos Thoracic
+White Monoblos Heart
+White Monoblos Fang
+White Monoblos Tail
+Pale Steak
+Khezu Special Cut
+Giaprey Hide
+Giadrome Hide
+Giadrome Ice Sac
+Giadrome Head
+Giadrome Claw
+Giadrome Fang
+Giadrome Tail
+Giadrome Scale
+Hermitaur Water Sac
+Hermitaur Carapace
+Sm Hermitaur Shell+
+Sm Hermitaur Shell
+Hermitaur Claw+
+Hermitaur Pincer+
+Hermitaur Claw
+Hermitaur Shell
+Hermitaur Leg
+Hermitaur Pincer
+Hermitaur Leg+
+Hermitaur Gills
+Scarlet Finehorn
+Hypnocatrice Sleep Sac
+Hypnocatrice Claw+
+Hypnocatrice Tail
+Hypnocatrice Feather+
+Hypnocatrice Claw
+Hypnocatrice Gizzard+
+Golden Hypnocatrice Feather
+Golden Hypnocatrice Claw
+Golden Hypnocatrice Gizzard
+Hypnocatrice Feather
+Hypnocatrice Wing Feather
+Hypnocatrice Gizzard
+Golden Hypnocatrice Beak
+Golden Hypnocatrice Fang
+Small Beak
+Stone Toes
+Sandstone Basarios Wing
+Sandstone Basarios Carapce
+Sandstone Basarios Skull
+Sandstone Basarios Backplate
+Sandstone Basarios Chestplate
+Sandstone Basarios Tears
+Red Gaoren Pincer
+Gaoren Great Shell
+Gaoren Doom Blade
+Gaoren Edge Shell
+Gaoren Razor Claw
+Gaoren Great Claw
+Gaoren Plate
+Giant Beak
+Splendid Beak
+Broken Electro Sac
+Broken Sleep Sac
+Broken Fluid Sac
+Hardened Fin
+Worn Incisor
+Doom Estrellian Wing
+Doom Estrellian Shell
+Doom Estrellian Horn
+Silver Tail Feather
+Dilute Sleep Fluid
+Chramine Legbone
+Chramine Birdbone
+Chramine Pelt
+Chramine Webbing
+Chramine Rubber
+Viscous Venom
+Purple Gypceros Beak
+Purple Gypceros Beak+
+Red Khezu Wing
+Red Khezu Fang
+Red Khezu Sucker
+Red Khezu Fluid
+Red Khezu Hide
+Red Khezu Steak
+Red Hornfly
+Red Horn Butterfly
+Iodrome Hide
+Iodrome Head
+Iodrome Claw
+Iodrome Fang
+Iodrome Tail
+Iodrome Poison Sac
+Ioprey Scale
+Pure Crystal Tear
+Green Mucus
+Emerald Eye
+Emerald Rubber
+Plump Pork
+Fertile Mud
+Juicy Crab Paste
+Juicy Crab
+Beating Heart
+Decayed Dragonscale
+Fermented Mushroom
+Wisdom Jewel
+Azure Rathalos Scale
+Azure Rathalos Wing
+Azure Rathalos Carapace
+Azure Rathalos Medulla
+Azure Rathalos Plate
+Azure Flame Sac
+Merphistophelin Bladescale
+Merphistophelin Carapace
+Merphistophelin Eye
+Merphistophelin Claw
+Merphistophelin Horn
+Merphistophelin Scale
+Velociprey Hide
+Velocidrome Tail
+Velocidrome Hide+
+Velocidrome Head+
+Velocidrome Head
+Velocidrome Claw+
+Velocidrome Fang+
+Velocidrome Claw
+Velocidrome Fang
+Velocidrome Hide
+Velociprey Scale+
+Velociprey Scale
+Azure Butterfly
+Lg Lobster Shell
+Digested Ore
+Diablos Carapace
+Diablos Tailcase
+Diablos Thoracic
+Diablos Medulla
+Diablos Fang
+Diablos Tail
+Strange Lightcrystal
+Strange Lightcrystal+
+Crimson Mane
+Sm Crimson Scale
+Tigrex Scale+
+Tigrex Carapace
+Tigrex Skull
+Tigrex Claw+
+Tigrex Fang+
+Tigrex Jaw
+Aquaglow Crystal
+Bright Dragonstone
+Fan Bone
+Golden Cat Treasure
+Gold Congalala Leather
+Gold Congalala Fur+
+Gold Congalala Bone+
+Gold Congalala Bone
+Gold Congalala Claw+
+Gold Congalala Fang+
+Gold Congalala Fur
+Gold Congalala Claw
+Gold Congalala Fang
+Gold Congalala Pelt
+Golden Pearl
+Golden Hair
+Daora Dragonscale
+Kushala Daora Carapace
+Kushala Daora Claw
+Kushala Daora Horn
+Steel Dragon Blood
+Kushala Daora Plate
+Iron Ore
+Silver Cat Treasure
+Silver Hypnoc Claw
+Silver Hypnoc Tail
+Silver Hypnoc Gizzard
+Silver Hypnoc Feather
+Silver Hair
+Sharp Sickle
+Sharp Nails
+Ceanataur Water Sac
+Ceanataur Carapace
+Sm Ceanataur Shell+
+Sm Ceanataur Shell
+Ceanataur Claw+
+Ceanataur Claw
+Ceanataur Shell
+Ceanataur Leg
+Ceanataur Leg+
+Rotting Skull
+Raw Pearl
+Estrellian Scale
+Rathian Spike+
+Rathian Scale+
+Rathian Wing+
+Rathian Carapace
+Rathian Claw+
+Rathian Venom
+Rathian Spike
+Rathian Webbing
+Blangonga Pelt+
+Blangonga Fur+
+Blangonga Whisker+
+Blangonga Bone+
+Blangonga Bone
+Blangonga Claw+
+Blangonga Fang+
+Blangonga Fur
+Blangonga Claw
+Blangonga Fang
+Blangona White Fur
+Blangonga Pelt
+Blangonga Whisker
+Chameleos Hide+
+Chameleos Claw+
+Chameleos Horn+
+Chameleos Wing
+Chameleos Fang+
+Chameleos Tongue
+Red Gaoren Horn
+Blue Kut-Ku Wing+
+Blue Kut-Ku Scale+
+Blue Kut-Ku Ear+
+Blue Kut-Ku Carapace
+Blue Kut-Ku Claw+
+Blue Kut-Ku Tail
+Blue Kut-Ku Claw
+Blue Kut-Ku Wing
+Blue Kut-Ku Wing Claw
+Blue Kut-Ku Ear
+Blue Kut-Ku Shell
+Blue Kut-Ku Scale
+Blue Kut-Ku Hide
+Blue Kut-Ku Webbing
+Gaoren Death Fang
+Dread Baelidae Fluid
+Dread Baelidae Hair+
+Dread Baelidae Carapace
+Dread Baelidae Eye+
+Dread Baelidae Demon Shell
+Dread Baelidae Claw+
+Dread Baelidae Fluid+
+Dread Baelidae Hair
+Dread Baelidae Pus
+Dread Baelidae Claw
+Dread Baelidae Shell
+Dread Baelidae Eye
+Dread Baelidae Silk
+Dread Baelidae Silk+
+Dread Baelidae Pus+
+Strong Thunder Sac
+Decoration Coupon
+Khezu Webbing
+Baelidae Fluid
+Baelidae Hair+
+Baelidae Carapace
+Baelidae Eye
+Baelidae Claw+
+Baelidae Hair
+Baelidae Fluid+
+Baelidae Claw 
+Baelidae Shell
+Baelidae Silk
+Baelidae Silk+
+Baelidae Eye+
+Baelidae Ghost Shell
+Baelidae Horn+
+Baelidae Horn
+Alluring Hide
+Alluring Maw
+Alluring Webbing
+Paralysis Sac
+Genprey Hide
+Yellow Saliva
+Gendrome Hide+
+Gendrome Head+
+Gendrome Head
+Gendrome Claw+
+Gendrome Tail
+Gendrome Claw
+Gendrome Hide
+Gendrome Tail+
+Gendrome Fang+
+Gendrome Fang
+Genprey Scale+
+Genprey Scale
+Sticky Termite
+Garuga Scale
+Garuga Claw
+Garuga Mane
+Garuga Ear
+Garuga Carapace
+Garuga Spike
+Garuga Webbing
+Black Pearl
+Sm Purple Shell
+Dark Mucus
+Wyvern Skull
+Wyverneye Dragonfly
+Med Wyvern Bone
+Large Wyvern Bone
+Small Wyvern Bone

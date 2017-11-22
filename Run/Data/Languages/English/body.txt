@@ -1,0 +1,230 @@
+Prototype Caeserber Mail
+Prototype Caeserber Vest
+Prototype Velocidrome Mail
+Prototype Velocidrome Vest
+Prototype Bulldrome Mail
+Prototype Bulldrome Vest
+Prototype Yian Kut-Ku Mail
+Prototype Yian Kut-Ku Vest
+Prototype Gendrome Mail
+Prototype Gendrome Vest
+Prototype Baelidae Mail
+Prototype Baelidae Vest
+Prototype Yellow Caeserber Mail
+Prototype Yellow Caeserber Vest
+Prototype Gypceros Mail
+Prototype Gypceros Vest
+Prototype Congalala Mail
+Prototype Congalala Vest
+Prototype Chramine Mail
+Prototype Chramine Vest
+Prototype Cephadrome Mail
+Prototype Cephadrome Vest
+Prototype Hermitaur Mail
+Prototype Hermitaur Vest
+Prototype Blue Kut-Ku Mail
+Prototype Blue Kut-Ku Vest
+Prototype Khezu Mail
+Prototype Khezu Vest
+Prototype Basarios Mail
+Prototype Basarios Vest
+Prototype Hypnocatrice Mail
+Prototype Hypnocatrice Vest
+Prototype Gold Congalala Mail
+Prototype Gold Congalala Vest
+Prototype Dread Baelidae Mail
+Prototype Dread Baelidae Vest
+Prototype Purple Gypceros Mail
+Prototype Purple Gypceros Vest
+Prototype Shogun Ceanataur Mail
+Prototype Shogun Ceanataur Vest
+Prototype Blangonga Mail
+Prototype Blangonga Vest
+Prototype Estrellian Mail
+Prototype Estrellian Vest
+Caeserber Mail
+Caeserber Vest
+Velocidrome Mail
+Velocidrome Vest
+Bulldrome Mail
+Bulldrome Vest
+Yian Kut-Ku Mail
+Yian Kut-Ku Vest
+Gendrome Mail
+Gendrome Vest
+Baelidae Mail
+Baelidae Vest
+Yellow Caeserber Mail
+Yellow Caeserber Vest
+Gypceros Mail
+Gypceros Vest
+Congalala Mail
+Congalala Vest
+Chramine Mail
+Chramine Vest
+Cephadrome Mail
+Cephadrome Vest
+Hermitaur Mail
+Hermitaur Vest
+Iodrome Mail
+Iodrome Vest
+Blue Kut-Ku Mail
+Blue Kut-Ku Vest
+Khezu Mail
+Khezu Vest
+Basarios Mail
+Basarios Vest
+Hypnocatrice Mail
+Hypnocatrice Vest
+Gold Congalala Mail
+Gold Congalala Vest
+Dread Baelidae Mail
+Dread Baelidae Vest
+Purple Gypceros Mail
+Purple Gypceros Vest
+Shogun Ceanataur Mail
+Shogun Ceanataur Vest
+Blangonga Mail
+Blangonga Vest
+Estrellian Mail
+Estrellian Vest
+Giadrome Mail
+Giadrome Vest
+Ice Chramine Mail
+Ice Chramine Vest
+Silver Hypnocatrice Mail
+Silver Hypnocatrice Vest
+Ghost Caeserber Mail
+Ghost Caeserber Vest
+Swordmaster Shogun Ceanataur Mail
+Swordmaster Shogun Ceanataur Vest
+Crystal Basarios Mail
+Crystal Basarios Vest
+Akura Vashimu Mail
+Akura Vashimu Vest
+Yian Garuga Mail
+Yian Garuga Vest
+Red Khezu Mail
+Red Khezu Vest
+Monoblos Mail
+Monoblos Vest
+Doom Estrellian Mail
+Doom Estrellian Vest
+Rathian Mail
+Rathian Vest
+One-Eared Garuga Mail
+One-Eared Garuga Vest
+Shattered Monoblos Mail
+Shattered Monoblos Vest
+Conflagration Rathian Mail
+Conflagration Rathian Vest
+Tartaronis Mail
+Tartaronis Vest
+Shen Gaoren Mail
+Shen Gaoren Vest
+Red Shen Gaoren Mail
+Red Shen Gaoren Vest
+True Dawnwind Mail
+True Dawnwind Vest
+Slicemargl Mail
+Slicemargl Vest
+Lightenna Mail
+Lightenna Vest
+Rathalos Mail
+Rathalos Vest
+Tigrex Mail
+Tigrex Vest
+Plesioth Mail
+Plesioth Vest
+Diablos Mail
+Diablos Vest
+Azure Rathalos Mail
+Azure Rathalos Vest
+Akura Jebia Mail
+Akura Jebia Vest
+Kushala Daora Mail
+Kushala Daora Vest
+Sandstone Basarios Mail
+Sandstone Basarios Vest
+Golden Hypnoc Mail
+Golden Hypnoc Vest
+Pink Rathian Mail
+Pink Rathian Vest
+Merphistophelin Mail
+Merphistophelin Vest
+Flame Blangonga Mail
+Flame Blangonga Vest
+Chameleos Mail
+Chameleos Vest
+Lavasioth Mail
+Lavasioth Vest
+White Monoblos Mail
+White Monoblos Vest
+Purple Slicemargl Mail
+Purple Slicemargl Vest
+Rajang Mail
+Rajang Vest
+V.Tartaronis Mail
+V.Tartaronis Vest
+Gravios Mail
+Gravios Vest
+Ele Merphistophelin Mail
+Ele Merphistophelin Vest
+GonnGenn Hermitaur Mail
+GonnGenn Hermitaur Vest
+Rusted Kushala Daora Mail
+Rusted Kushala Daora Vest
+Yama Tsukami Mail
+Yama Tsukami Vest
+Zinogre Mail
+Zinogre Vest
+Onimusha Mail
+Onimusha Vest
+Arbiter Estrellian Mail
+Arbiter Estrellian Vest
+Barioth Mail
+Barioth Vest
+Deviljho Mail
+Deviljho Vest
+Kirin Mail
+Kirin Vest
+Lao-Shan Lung Mail
+Lao-Shan Lung Vest
+Caeserber Chest S
+Velocidrome Chest S
+Bulldrome Chest S
+Yian Kut-ku Chest S
+Gendrome Chest S
+Baelidae Chest S
+Yellow Caeserber Chest S
+Gypceros Chest S
+Congalala Chest S
+Cephadrome Chest S
+Chramine Chest S
+Hermitaur Chest S
+Ceanataur Chest S
+Ghost Caeserber Chest S
+Swordmaster Ceanataur Chest S
+Ice Chramine Chest S
+Yian Garuga Chest S
+Basarios Chest S
+Dread Baelidae Chest S
+Gold Congalala Chest S
+Blue Kut-Ku Chest S
+Purple Gypceros Chest S
+Khezu Chest S
+Hypnocatrice Chest S
+Blangonga Chest S
+Red Khezu Chest S
+Crystal Basarios Chest S
+Silver Hypnocatrice Chest S
+One-Eared Garuga Chest S
+Lightenna Chest S
+Pariapuria Chest S
+Rathian Chest S
+Monoblos Chest S
+Shattered Monoblos Chest S
+Akura Vashimu Chest S
+Estrellian Chest S
+Uragaan Chest S
+Plesioth Chest S

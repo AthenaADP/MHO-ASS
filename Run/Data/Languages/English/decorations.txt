@@ -1,0 +1,140 @@
+﻿Attack Jewel 1
+Attack Jewel 2
+Attack Jewel 3
+Expert Jewel 1
+Expert Jewel 2
+Expert Jewel 3
+Disabler Jewel 1
+Disabler Jewel 2
+Blaze Jewel 1
+Blaze Jewel 2
+Stream Jewel 1
+Stream Jewel 2
+Bolt Jewel 1
+Bolt Jewel 2
+Frost Jewel 1
+Frost Jewel 2
+Dragon Jewel 1
+Dragon Jewel 2
+Tenderizer Jewel 1
+Tenderizer Jewel 3
+Destroyer Jewel 1
+Destroyer Jewel 3
+KO Jewel 1
+KO Jewel 3
+Potential Jewel 1
+Potential Jewel 2
+Fortitude Jewel 1
+Fortitude Jewel 2
+Spirit Jewel 1
+Spirit Jewel 2
+Hardy Jewel 1
+Hardy Jewel 2
+Flawless Jewel 1
+Flawless Jewel 2
+Attraction Jewel 1
+Attraction Jewel 2
+High Stakes Jewel 1
+High Stakes Jewel 2
+Trip Jewel 1
+Ambush Jewel 1
+Ambush Jewel 3
+Sonorous Jewel 1
+Artillery Jewel 1
+Defense Jewel 1
+Defense Jewel 2
+Defense Jewel 3
+Fire Res Jewel 1
+Nul-Fire Jewel 1
+Water Res Jewel 1
+Nul-Water Jewel 1
+Thunder Res Jewel 1
+Nul-Thunder Jewel 1
+Ice Res Jewel 1
+Nul-Ice Jewel 1
+Dragon Res Jewel 1
+Nul-Dragon Jewel 1
+Vitality Jewel 1
+Recovery Jewel 1
+Recovery Jewel 2
+Physique Jewel 1
+Physique Jewel 2
+Refresh Jewel 1
+Refresh Jewel 2
+Hungerless Jewel 1
+Hungerless Jewel 2
+Metabolism Jewel 1
+Guts Jewel 1
+Guts Jewel 2
+Medicine Jewel 1
+Medicine Jewel 2
+Charger Jewel 1
+Charger Jewel 3
+Handicraft Jewel 2
+Fencer Jewel 1
+Fencer Jewel 3
+Razor Jewel 1
+Razor Jewel 3
+Ironwall Jewel 1
+Ironwall Jewel 2
+Shield Jewel 1
+Shield Jewel 2
+Grinder Jewel 1
+Stun Lock Jewel 1
+Stun Lock Jewel 3
+Draw Jewel 1
+Draw Jewel 2
+Capacity Jewel 2
+Forceshot Jewel 1
+Pierce Jewel 1
+Pellet Jewel 1
+ShotPlus Jewel 1
+PiercePlus Jewel 1
+PelletPlus Jewel 1
+Quickload Jewel 1
+PoisonPlus Jewel 1
+SleepPlus Jewel 1
+ParaPlus Jewel 1
+ClustPlus Jewel 1
+Absorber Jewel 1
+Salvo Jewel 1
+Evasion Jewel 1
+Evasion Jewel 2
+Jumping Jewel 1
+Trapmaster Jewel 1
+Gobbler Jewel 1
+Steadfast Jewel 1
+Paralysis Jewel 1
+Pep Jewel 1
+Antidote Jewel 1
+Tracker Jewel 1
+Tectonic Jewel 1
+Quake Jewel 1
+Heat Res Jewel 1
+Heat Res Jewel 2
+Cold Res Jewel 1
+Cold Res Jewel 2
+Earplug Jewel 1
+Earplug Jewel 3
+Wind Res Jewel 1
+Wind Res Jewel 2
+Friendship Jewel 1
+Friendship Jewel 2
+Ninja Jewel 1
+Antibacterial Jewel 1
+Staunch Jewel 1
+Herb Jewel 1
+Herbalism Jewel 1
+Psychic Jewel 1
+Perception Jewel 1
+Ranger Jewel 1
+Flying Wyvern Jewel 1
+Bird Wyvern Jewel 1
+Bird Wyvern Jewel 2
+Fanged Beast Jewel 1
+Fanged Beast Jewel 2
+Carapacean Jewel 1
+Carapacean Jewel 2
+Elder Dragon Jewel 1
+Piscine Wyvern Jewel 1
+Piscine Wyvern Jewel 2

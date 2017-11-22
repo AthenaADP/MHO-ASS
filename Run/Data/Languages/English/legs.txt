@@ -1,0 +1,230 @@
+Prototype Caeserber Greaves
+Prototype Caeserber Leggings
+Prototype Velocidrome Greaves
+Prototype Velocidrome Leggings
+Prototype Bulldrome Greaves
+Prototype Bulldrome Leggings
+Prototype Yian Kut-Ku Greaves
+Prototype Yian Kut-Ku Leggings
+Prototype Gendrome Greaves
+Prototype Gendrome Leggings
+Prototype Baelidae Greaves
+Prototype Baelidae Leggings
+Prototype Yellow Caeserber Greaves
+Prototype Yellow Caeserber Leggings
+Prototype Gypceros Greaves
+Prototype Gypceros Leggings
+Prototype Congalala Greaves
+Prototype Congalala Leggings
+Prototype Chramine Greaves
+Prototype Chramine Leggings
+Prototype Cephadrome Greaves
+Prototype Cephadrome Leggings
+Prototype Hermitaur Greaves
+Prototype Hermitaur Leggings
+Prototype Blue Kut-Ku Greaves
+Prototype Blue Kut-Ku Leggings
+Prototype Khezu Greaves
+Prototype Khezu Leggings
+Prototype Basarios Greaves
+Prototype Basarios Leggings
+Prototype Hypnocatrice Greaves
+Prototype Hypnocatrice Leggings
+Prototype Gold Congalala Greaves
+Prototype Gold Congalala Leggings
+Prototype Dread Baelidae Greaves
+Prototype Dread Baelidae Leggings
+Prototype Purple Gypceros Greaves
+Prototype Purple Gypceros Leggings
+Prototype Shogun Ceanataur Greaves
+Prototype Shogun Ceanataur Leggings
+Prototype Blangonga Greaves
+Prototype Blangonga Leggings
+Prototype Estrellian Greaves
+Prototype Estrellian Leggings
+Caeserber Greaves
+Caeserber Leggings
+Velocidrome Greaves
+Velocidrome Leggings
+Bulldrome Greaves
+Bulldrome Leggings
+Yian Kut-Ku Greaves
+Yian Kut-Ku Leggings
+Gendrome Greaves
+Gendrome Leggings
+Baelidae Greaves
+Baelidae Leggings
+Yellow Caeserber Greaves
+Yellow Caeserber Leggings
+Gypceros Greaves
+Gypceros Leggings
+Congalala Greaves
+Congalala Leggings
+Chramine Greaves
+Chramine Leggings
+Cephadrome Greaves
+Cephadrome Leggings
+Hermitaur Greaves
+Hermitaur Leggings
+Iodrome Greaves
+Iodrome Leggings
+Blue Kut-Ku Greaves
+Blue Kut-Ku Leggings
+Khezu Greaves
+Khezu Leggings
+Basarios Greaves
+Basarios Leggings
+Hypnocatrice Greaves
+Hypnocatrice Leggings
+Gold Congalala Greaves
+Gold Congalala Leggings
+Dread Baelidae Greaves
+Dread Baelidae Leggings
+Purple Gypceros Greaves
+Purple Gypceros Leggings
+Shogun Ceanataur Greaves
+Shogun Ceanataur Leggings
+Blangonga Greaves
+Blangonga Leggings
+Estrellian Greaves
+Estrellian Leggings
+Giadrome Greaves
+Giadrome Leggings
+Ice Chramine Greaves
+Ice Chramine Leggings
+Silver Hypnocatrice Greaves
+Silver Hypnocatrice Leggings
+Ghost Caeserber Greaves
+Ghost Caeserber Leggings
+Swordmaster Shogun Ceanataur Greaves
+Swordmaster Shogun Ceanataur Leggings
+Crystal Basarios Greaves
+Crystal Basarios Leggings
+Akura Vashimu Greaves
+Akura Vashimu Leggings
+Yian Garuga Greaves
+Yian Garuga Leggings
+Red Khezu Greaves
+Red Khezu Leggings
+Monoblos Greaves
+Monoblos Leggings
+Doom Estrellian Greaves
+Doom Estrellian Leggings
+Rathian Greaves
+Rathian Leggings
+One-Eared Garuga Greaves
+One-Eared Garuga Leggings
+Shattered Monoblos Greaves
+Shattered Monoblos Leggings
+Conflagration Rathian Greaves
+Conflagration Rathian Leggings
+Tartaronis Greaves
+Tartaronis Leggings
+Shen Gaoren Greaves
+Shen Gaoren Leggings
+Red Shen Gaoren Greaves
+Red Shen Gaoren Leggings
+True Dawnwind Greaves
+True Dawnwind Leggings
+Slicemargl Greaves
+Slicemargl Leggings
+Lightenna Greaves
+Lightenna Leggings
+Rathalos Greaves
+Rathalos Leggings
+Tigrex Greaves
+Tigrex Leggings
+Plesioth Greaves
+Plesioth Leggings
+Diablos Greaves
+Diablos Leggings
+Azure Rathalos Greaves
+Azure Rathalos Leggings
+Akura Jebia Greaves
+Akura Jebia Leggings
+Kushala Daora Greaves
+Kushala Daora Leggings
+Sandstone Basarios Greaves
+Sandstone Basarios Leggings
+Golden Hypnoc Greaves
+Golden Hypnoc Leggings
+Pink Rathian Greaves
+Pink Rathian Leggings
+Merphistophelin Greaves
+Merphistophelin Leggings
+Flame Blangonga Greaves
+Flame Blangonga Leggings
+Chameleos Greaves
+Chameleos Leggings
+Lavasioth Greaves
+Lavasioth Leggings
+White Monoblos Greaves
+White Monoblos Leggings
+Purple Slicemargl Greaves
+Purple Slicemargl Leggings
+Rajang Greaves
+Rajang Leggings
+V.Tartaronis Greaves
+V.Tartaronis Leggings
+Gravios Greaves
+Gravios Leggings
+Ele Merphistophelin Greaves
+Ele Merphistophelin Leggings
+GonnGenn Hermitaur Greaves
+GonnGenn Hermitaur Leggings
+Rusted Kushala Daora Greaves
+Rusted Kushala Daora Leggings
+Yama Tsukami Greaves
+Yama Tsukami Leggings
+Zinogre Greaves
+Zinogre Leggings
+Onimusha Greaves
+Onimusha Leggings
+Arbiter Estrellian Greaves
+Arbiter Estrellian Leggings
+Barioth Greaves
+Barioth Leggings
+Deviljho Greaves
+Deviljho Leggings
+Kirin Greaves
+Kirin Leggings
+Lao-Shan Lung Greaves
+Lao-Shan Lung Leggings
+Caeserber Feet S
+Velocidrome Feet S
+Bulldrome Feet S
+Yian Kut-ku Feet S
+Gendrome Feet S
+Baelidae Feet S
+Yellow Caeserber Feet S
+Gypceros Feet S
+Congalala Feet S
+Cephadrome Feet S
+Chramine Feet S
+Hermitaur Feet S
+Ceanataur Feet S
+Ghost Caeserber Feet S
+Swordmaster Ceanataur Feet S
+Ice Chramine Feet S
+Yian Garuga Feet S
+Basarios Feet S
+Dread Baelidae Feet S
+Gold Congalala Feet S
+Blue Kut-Ku Feet S
+Purple Gypceros Feet S
+Khezu Feet S
+Hypnocatrice Feet S
+Blangonga Feet S
+Red Khezu Feet S
+Crystal Basarios Feet S
+Silver Hypnocatrice Feet S
+One-Eared Garuga Feet S
+Lightenna Feet S
+Pariapuria Feet S
+Rathian Feet S
+Monoblos Feet S
+Shattered Monoblos Feet S
+Akura Vashimu Feet S
+Estrellian Feet S
+Uragaan Feet S
+Plesioth Feet S

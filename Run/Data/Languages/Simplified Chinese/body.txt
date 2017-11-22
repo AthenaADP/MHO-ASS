@@ -1,0 +1,208 @@
+﻿初阶河狸兽铠甲
+初阶河狸兽护甲
+初阶蓝速龙王铠甲
+初阶蓝速龙王护甲
+初阶大野猪王铠甲
+初阶大野猪王护甲
+初阶大怪鸟铠甲
+初阶大怪鸟护甲
+初阶黄速龙王铠甲
+初阶黄速龙王护甲
+初阶鬼狩蛛铠甲
+初阶鬼狩蛛护甲
+初阶沙狸兽铠甲
+初阶沙狸兽护甲
+初阶毒怪鸟铠甲
+初阶毒怪鸟护甲
+初阶桃毛兽王铠甲
+初阶桃毛兽王护甲
+初阶沙雷鸟铠甲
+初阶沙雷鸟护甲
+初阶沙龙王铠甲
+初阶沙龙王护甲
+初阶大名盾蟹铠甲
+初阶大名盾蟹护甲
+初阶青怪鸟铠甲
+初阶青怪鸟护甲
+初阶电龙铠甲
+初阶电龙护甲
+初阶岩龙铠甲
+初阶岩龙护甲
+初阶眠鸟铠甲
+初阶眠鸟护甲
+初阶金毛兽王铠甲
+初阶金毛兽王护甲
+初阶骇狩蛛铠甲
+初阶骇狩蛛护甲
+初阶紫毒鸟铠甲
+初阶紫毒鸟护甲
+初阶将军镰蟹铠甲
+初阶将军镰蟹护甲
+初阶雪狮子王铠甲
+初阶雪狮子王护甲
+初阶星龙铠甲
+初阶星龙护甲
+河狸兽铠甲
+河狸兽护甲
+蓝速龙王铠甲
+蓝速龙王护甲
+大野猪王铠甲
+大野猪王护甲
+大怪鸟铠甲
+大怪鸟护甲
+黄速龙王铠甲
+黄速龙王护甲
+鬼狩蛛铠甲
+鬼狩蛛护甲
+沙狸兽铠甲
+沙狸兽护甲
+毒怪鸟铠甲
+毒怪鸟护甲
+桃毛兽王铠甲
+桃毛兽王护甲
+沙雷鸟铠甲
+沙雷鸟护甲
+沙龙王铠甲
+沙龙王护甲
+大名盾蟹铠甲
+大名盾蟹护甲
+红速龙王铠甲
+红速龙王护甲
+青怪鸟铠甲
+青怪鸟护甲
+电龙铠甲
+电龙护甲
+岩龙铠甲
+岩龙护甲
+眠鸟铠甲
+眠鸟护甲
+金毛兽王铠甲
+金毛兽王护甲
+骇狩蛛铠甲
+骇狩蛛护甲
+紫毒鸟铠甲
+紫毒鸟护甲
+将军镰蟹铠甲
+将军镰蟹护甲
+雪狮子王铠甲
+雪狮子王护甲
+星龙铠甲
+星龙护甲
+白速龙王铠甲
+白速龙王护甲
+冰雷鸟铠甲
+冰雷鸟护甲
+银眠鸟铠甲
+银眠鸟护甲
+战鬼河狸兽铠甲
+战鬼河狸兽护甲
+剑豪镰蟹铠甲
+剑豪镰蟹护甲
+晶岩龙铠甲
+晶岩龙护甲
+尾晶蝎铠甲
+尾晶蝎护甲
+黑狼鸟铠甲
+黑狼鸟护甲
+红电龙铠甲
+红电龙护甲
+一角龙铠甲
+一角龙护甲
+祸星龙铠甲
+祸星龙护甲
+雌火龙铠甲
+雌火龙护甲
+片耳黑狼鸟铠甲
+片耳黑狼鸟护甲
+断刃一角龙铠甲
+断刃一角龙护甲
+烈焰雌火龙铠甲
+烈焰雌火龙护甲
+奇航铠甲
+奇航护甲
+明光【胴体】
+乌锤【胴体】
+赤冶【胴体】
+莽山【胴体】
+真晓风铠甲
+真晓风链甲
+武罗铠甲
+武罗护甲
+银闪铠甲
+银闪护甲
+初阶雄火龙铠甲
+初阶雄火龙护甲
+初阶轰龙铠甲
+初阶轰龙护甲
+水龙铠甲
+水龙护甲
+角龙铠甲
+角龙护甲
+苍火龙铠甲
+苍火龙护甲
+灰晶蝎铠甲
+灰晶蝎护甲
+钢龙铠甲
+钢龙护甲
+砂岩龙铠甲
+砂岩龙护甲
+金眠鸟铠甲
+金眠鸟护甲
+樱火龙铠甲
+樱火龙护甲
+荒厄龙铠甲
+荒厄龙护甲
+Flame Blangonga Mail
+Flame Blangonga Vest
+Chameleos Mail
+Chameleos Vest
+Lavasioth Mail
+Lavasioth Vest
+White Monoblos Mail
+White Monoblos Vest
+Purple Slicemargl Mail
+Purple Slicemargl Vest
+Rajang Mail
+Rajang Vest
+V.Tartaronis Mail
+V.Tartaronis Vest
+Gravios Mail
+Gravios Vest
+Ele Merphistophelin Mail
+Ele Merphistophelin Vest
+GonnGenn Hermitaur Mail
+GonnGenn Hermitaur Vest
+Rusted Kushala Daora Mail
+Rusted Kushala Daora Vest
+Yama Tsukami Mail
+Yama Tsukami Vest
+Zinogre Mail
+Zinogre Vest
+Onimusha Mail
+Onimusha Vest
+Arbiter Estrellian Mail
+Arbiter Estrellian Vest
+Barioth Mail
+Barioth Vest
+Deviljho Mail
+Deviljho Vest
+Kirin Mail
+Kirin Vest
+Lao-Shan Lung Mail
+Lao-Shan Lung Vest
+Caeserber Chest S
+Velocidrome Chest S
+Bulldrome Chest S
+Yian Kut-ku Chest S
+Gendrome Chest S
+Baelidae Chest S
+Yellow Caeserber Chest S
+Gypceros Chest S
+Congalala Chest S
+Cephadrome Chest S
+Chramine Chest S
+Hermitaur Chest S
+Ceanataur Chest S
+Ghost Caeserber Chest S
+Swordmaster Ceanataur Chest S
+Ice Chramine Chest S

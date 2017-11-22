@@ -1,0 +1,332 @@
+﻿Eating
+Psychic
+Survivor
+Attack
+Perception
+Stam Recov
+Tenderizer
+Vitality
+Rec Speed
+Speed Setup
+Element Attack
+Paralysis
+Status
+Stamina Consumption
+Expert
+Anti-bacterial
+Stun
+Destroyer
+Potential
+Tremor Res
+Protection
+Hunger
+Hormone
+Spirit
+Wind Res
+Knowing Technique
+Wide-range
+Sharpness
+High Stakes
+Hunter Life
+Climate
+Defense
+Constitution
+Evade Dist
+Sleep
+Sense
+Serious
+Poison
+Fencing
+Butterfly Dance
+Sharpener
+Resilience
+Guts
+Hearing
+Ambush
+Normal Up
+Water Atk
+Fire Atk
+Thunder Atk
+Dragon Atk
+Ice Atk
+Fast Charge
+Complete Resistance
+KO
+Unscathed
+Tripping Power
+Artillery
+Fire Res
+Water Res
+Thunder Res
+Ice Res
+Dragon Res
+Maestro
+Gluttony
+Rec Level
+Handicraft
+Guard Inc
+Guard
+Bleeding
+Herb Lore
+Mud/Snow Res
+Heat Res
+Cold Res
+Stun Lock
+Crit Draw
+Recoil
+Rapid Fire
+Evasion
+Pierce Up
+Pellet Up
+NormalS+
+PierceS+
+PelletS+
+Reload Speed
+ClustS+
+ParalysisS+
+SleepS+
+PoisonS+
+Loading
+Bird Wyvern Hunter
+Fanged Beast Hunter
+Carapacean Hunter
+Flying Wyvern Hunter
+Elder Dragon Hunter
+Piscine Wyvern Hunter
+
+Speed Eating
+Slow Life
+Detection
+Psychic
+Tenacity
+Attack +1
+Attack +2
+Attack +3
+Attack +4
+Attack +5
+Attack -1
+Attack -2
+Attack -3
+Attack -4
+Perception
+Stamina Recovery +1
+Stamina Recovery +2
+Stamina Recovery +3
+Stamina Recovery -1
+Stamina Recover -2
+Weakness Exploit
+Health +1
+Health +2
+Health +3
+Health +4
+Health +5
+Health -1
+Health -2
+Health -3
+Health -4
+Rec Speed +1
+Rec Speed +2
+Rec Speed +3
+Rec Speed -1
+Rec Speed -2
+Rec Speed -3
+Trap Master
+Element +1
+Element +2
+Element +3
+Element -1
+Paralysis Immunity
+Double Paralysis
+Abnormal Status Attack +1
+Abnormal Status Attack +2
+Abnormal Status Attack +3
+Abnormal Status Attack -1
+Marathon Runner +1
+Marathon Runner +2
+Bad Foot
+Critical Eye +1
+Critical Eye +2
+Critical Eye +3
+Critical Eye +4
+Critical Eye +5
+Critical Eye -1
+Critical Eye -2
+Critical Eye -3
+Critical Eye -4
+Germ Tolerance
+Stun Halved
+Stun Immunity
+Stun Doubled
+Destruction King
+Destruction God
+Adrenaline +1
+Adrenaline +2
+Adrenaline +3
+Worrywart
+Tremor Res
+Divine Protection
+Grand Divine Protection
+Demonic Protection
+Grand Demonic Protection
+Hunger Halved
+Negate Hunger
+Hunger Increased
+Attraction
+Challenger +1
+Challenger +2
+Windproof [Lo]
+Windproof [Hi]
+Windproof [All]
+Violent Strike
+Wide-range +1
+Wide-range +2
+Wide-range +3
+Razor Sharp +1
+Razor Sharp +2
+Blunt Edge
+Shed Armor
+Wilderness Survival
+Climate Adaptation
+Defense +1
+Defense +2
+Defense +3
+Defense +4
+Defense +5
+Defense -1
+Defense -2
+Defense -3
+Defense -4
+Constitution +1
+Constitution +2
+Constitution +3
+Constitution -1
+Constitution -2
+Evade Dist +1
+Evade Dist +2
+Sleep Immunity
+Sleep Doubled
+Sneak
+Taunt
+Unleashed Power +1
+Unleashed Power +2
+Poison Halved
+Poison Immunity
+Poison Doubled
+Mind’s Eye
+Butterfly Form
+Speed Sharpening +1
+Speed Sharpening +2
+Clairvoyance +1
+Clairvoyance +2
+Guts
+Earplugs
+High Grade Earplugs
+Assassination Technique +1
+Assassination Technique +2
+Normal/Rapid UP
+Water Atk +1
+Water Atk +2
+Water Atk +3
+Water Atk Down
+Fire Atk +1
+Fire Atk +2
+Fire Atk +3
+Fire Atk Down
+Lightning Atk +1
+Lightning Atk +2
+Lightning Atk +3
+Lightning Atk Down
+Dragon Atk +1
+Dragon Atk +2
+Dragon Atk +3
+Dragon Atk Down
+Ice Atk +1
+Ice Atk +2
+Ice Atk +3
+Ice Atk Down
+Focus +3
+Focus +2
+Focus +1
+Distracted
+Complete Resistance +1
+Complete Resistance +2
+Complete Resistance +3
+Knockout King
+Peak Performance
+Tripping Power
+Artillery Novice
+Gunnery King
+Fire Res +1
+Fire Res +2
+Fire Res +3
+Fire Res Down
+Water Res +1
+Water Res +2
+Water Res +3
+Water Res Down
+Thunder Res +1
+Thunder Res +2
+Thunder Res +3
+Thunder Res Down
+Ice Res +1
+Ice Res +2
+Ice Res +3
+Ice Res Down
+Dragon Res +1
+Dragon Res +2
+Dragon Res +3
+Dragon Res Down
+Horn Maestro
+Gourmand
+Recovery Up +1
+Recovery Up +2
+Recovery Down
+Sharpness +1
+Guard Inc
+Guard +1
+Guard +2
+Guard +3
+Negate Bleeding
+Herbalism
+Negate Mud/Snow
+Heat Cancel
+Cold Cancel
+Stun Lock
+Critical Draw +1
+Critical Draw +2
+Recoil Reduction +1
+Recoil Reduction +2
+Recoil Reduction -1
+Bonus Shot +1
+Evasion +1
+Evasion +2
+Evasion +3
+PierceS/PierceBow Up
+PelletS/ScatterBow Up
+NormalS Lv1 Clip +3
+NormalS Lv1/2 Clip +3
+NormalS Lv1/2/3 Clip +3
+PierceS Lv1 Clip +3
+PierceS Lv1/2 Clip +3
+PierceS Lv1/2/3 Clip +3
+PelletS Lv1 Clip +2
+PelletS Lv1/2 Clip +2
+PelletS Lv1/2/3 Clip +2
+Reload Speed +1
+Reload Speed +2
+Reload Speed +3
+Reload Speed -1
+Reload Speed -2
+ClustS Lv1 Clip +2
+ClustS Lv1/2 Clip +2
+ClustS Lv1/2/3 Clip +2
+Use ParalysisS/Coat
+Use SleepS/Coat
+Use PoisonS/Coat
+Load Up
+Bird Wyvern Killer
+Fanged Beast Killer
+Carapacean Killer
+Flying Wyvern Killer
+Elder Dragon Killer
+Piscine Wyvern Killer

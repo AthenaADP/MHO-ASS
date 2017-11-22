@@ -1,0 +1,230 @@
+Prototype Caeserber Braces
+Prototype Caeserber Guards
+Prototype Velocidrome Braces
+Prototype Velocidrome Guards
+Prototype Bulldrome Braces
+Prototype Bulldrome Guards
+Prototype Yian Kut-Ku Braces
+Prototype Yian Kut-Ku Guards
+Prototype Gendrome Braces
+Prototype Gendrome Guards
+Prototype Baelidae Braces
+Prototype Baelidae Guards
+Prototype Yellow Caeserber Braces
+Prototype Yellow Caeserber Guards
+Prototype Gypceros Braces
+Prototype Gypceros Guards
+Prototype Congalala Braces
+Prototype Congalala Guards
+Prototype Chramine Braces
+Prototype Chramine Guards
+Prototype Cephadrome Braces
+Prototype Cephadrome Guards
+Prototype Hermitaur Braces
+Prototype Hermitaur Guards
+Prototype Blue Kut-Ku Braces
+Prototype Blue Kut-Ku Guards
+Prototype Khezu Braces
+Prototype Khezu Guards
+Prototype Basarios Braces
+Prototype Basarios Guards
+Prototype Hypnocatrice Braces
+Prototype Hypnocatrice Guards
+Prototype Gold Congalala Braces
+Prototype Gold Congalala Guards
+Prototype Dread Baelidae Braces
+Prototype Dread Baelidae Guards
+Prototype Purple Gypceros Braces
+Prototype Purple Gypceros Guards
+Prototype Shogun Ceanataur Braces
+Prototype Shogun Ceanataur Guards
+Prototype Blangonga Braces
+Prototype Blangonga Guards
+Prototype Estrellian Braces
+Prototype Estrellian Guards
+Caeserber Braces
+Caeserber Guards
+Velocidrome Braces
+Velocidrome Guards
+Bulldrome Braces
+Bulldrome Guards
+Yian Kut-Ku Braces
+Yian Kut-Ku Guards
+Gendrome Braces
+Gendrome Guards
+Baelidae Braces
+Baelidae Guards
+Yellow Caeserber Braces
+Yellow Caeserber Guards
+Gypceros Braces
+Gypceros Guards
+Congalala Braces
+Congalala Guards
+Chramine Braces
+Chramine Guards
+Cephadrome Braces
+Cephadrome Guards
+Hermitaur Braces
+Hermitaur Guards
+Iodrome Braces
+Iodrome Guards
+Blue Kut-Ku Braces
+Blue Kut-Ku Guards
+Khezu Braces
+Khezu Guards
+Basarios Braces
+Basarios Guards
+Hypnocatrice Braces
+Hypnocatrice Guards
+Gold Congalala Braces
+Gold Congalala Guards
+Dread Baelidae Braces
+Dread Baelidae Guards
+Purple Gypceros Braces
+Purple Gypceros Guards
+Shogun Ceanataur Braces
+Shogun Ceanataur Guards
+Blangonga Braces
+Blangonga Guards
+Estrellian Braces
+Estrellian Guards
+Giadrome Braces
+Giadrome Guards
+Ice Chramine Braces
+Ice Chramine Guards
+Silver Hypnocatrice Braces
+Silver Hypnocatrice Guards
+Ghost Caeserber Braces
+Ghost Caeserber Guards
+Swordmaster Shogun Ceanataur Braces
+Swordmaster Shogun Ceanataur Guards
+Crystal Basarios Braces
+Crystal Basarios Guards
+Akura Vashimu Braces
+Akura Vashimu Guards
+Yian Garuga Braces
+Yian Garuga Guards
+Red Khezu Braces
+Red Khezu Guards
+Monoblos Braces
+Monoblos Guards
+Doom Estrellian Braces
+Doom Estrellian Guards
+Rathian Braces
+Rathian Guards
+One-Eared Garuga Braces
+One-Eared Garuga Guards
+Shattered Monoblos Braces
+Shattered Monoblos Guards
+Conflagration Rathian Braces
+Conflagration Rathian Guards
+Tartaronis Braces
+Tartaronis Guards
+Shen Gaoren Braces
+Shen Gaoren Guards
+Red Shen Gaoren Braces
+Red Shen Gaoren Guards
+True Dawnwind Braces
+True Dawnwind Guards
+Slicemargl Braces
+Slicemargl Guards
+Lightenna Braces
+Lightenna Guards
+Rathalos Braces
+Rathalos Guards
+Tigrex Braces
+Tigrex Guards
+Plesioth Braces
+Plesioth Guards
+Diablos Braces
+Diablos Guards
+Azure Rathalos Braces
+Azure Rathalos Guards
+Akura Jebia Braces
+Akura Jebia Guards
+Kushala Daora Braces
+Kushala Daora Guards
+Sandstone Basarios Braces
+Sandstone Basarios Guards
+Golden Hypnoc Braces
+Golden Hypnoc Guards
+Pink Rathian Braces
+Pink Rathian Guards
+Merphistophelin Braces
+Merphistophelin Guards
+Flame Blangonga Braces
+Flame Blangonga Guards
+Chameleos Braces
+Chameleos Guards
+Lavasioth Braces
+Lavasioth Guards
+White Monoblos Braces
+White Monoblos Guards
+Purple Slicemargl Bracers
+Purple Slicemargl Guards
+Rajang Bracers
+Rajang Guards
+V.Tartaronis Bracers
+V.Tartaronis Guards
+Gravios Bracers
+Gravios Guards
+Ele Merphistophelin Bracers
+Ele Merphistophelin Guards
+GonnGenn Hermitaur Bracers
+GonnGenn Hermitaur Guards
+Rusted Kushala Daora Bracers
+Rusted Kushala Daora Guards
+Yama Tsukami Bracers
+Yama Tsukami Guards
+Zinogre Bracers
+Zinogre Guards
+Onimusha Bracers
+Onimusha Guards
+Arbiter Estrellian Bracers
+Arbiter Estrellian Guards
+Barioth Bracers
+Barioth Guards
+Deviljho Bracers
+Deviljho Guards
+Kirin Bracers
+Kirin Guards
+Lao-Shan Lung Bracers
+Lao-Shan Lung Guards
+Caeserber Arms S
+Velocidrome Arms S
+Bulldrome Arms S
+Yian Kut-ku Arms S
+Gendrome Arms S
+Baelidae Arms S
+Yellow Caeserber Arms S
+Gypceros Arms S
+Congalala Arms S
+Cephadrome Arms S
+Chramine Arms S
+Hermitaur Arms S
+Ceanataur Arms S
+Ghost Caeserber Arms S
+Swordmaster Ceanataur Arms S
+Ice Chramine Arms S
+Yian Garuga Arms S
+Basarios Arms S
+Dread Baelidae Arms S
+Gold Congalala Arms S
+Blue Kut-Ku Arms S
+Purple Gypceros Arms S
+Khezu Arms S
+Hypnocatrice Arms S
+Blangonga Arms S
+Red Khezu Arms S
+Crystal Basarios Arms S
+Silver Hypnocatrice Arms S
+One-Eared Garuga Arms S
+Lightenna Arms S
+Pariapuria Arms S
+Rathian Arms S
+Monoblos Arms S
+Shattered Monoblos Arms S
+Akura Vashimu Arms S
+Estrellian Arms S
+Uragaan Arms S
+Plesioth Arms S

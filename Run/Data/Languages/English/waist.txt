@@ -1,0 +1,230 @@
+Prototype Caeserber Faulds
+Prototype Caeserber Coat
+Prototype Velocidrome Faulds
+Prototype Velocidrome Coat
+Prototype Bulldrome Faulds
+Prototype Bulldrome Coat
+Prototype Yian Kut-Ku Faulds
+Prototype Yian Kut-Ku Coat
+Prototype Gendrome Faulds
+Prototype Gendrome Coat
+Prototype Baelidae Faulds
+Prototype Baelidae Coat
+Prototype Yellow Caeserber Faulds
+Prototype Yellow Caeserber Coat
+Prototype Gypceros Faulds
+Prototype Gypceros Coat
+Prototype Congalala Faulds
+Prototype Congalala Coat
+Prototype Chramine Faulds
+Prototype Chramine Coat
+Prototype Cephadrome Faulds
+Prototype Cephadrome Coat
+Prototype Hermitaur Faulds
+Prototype Hermitaur Coat
+Prototype Blue Kut-Ku Faulds
+Prototype Blue Kut-Ku Coat
+Prototype Khezu Faulds
+Prototype Khezu Coat
+Prototype Basarios Faulds
+Prototype Basarios Coat
+Prototype Hypnocatrice Faulds
+Prototype Hypnocatrice Coat
+Prototype Gold Congalala Faulds
+Prototype Gold Congalala Coat
+Prototype Dread Baelidae Faulds
+Prototype Dread Baelidae Coat
+Prototype Purple Gypceros Faulds
+Prototype Purple Gypceros Coat
+Prototype Shogun Ceanataur Faulds
+Prototype Shogun Ceanataur Coat
+Prototype Blangonga Faulds
+Prototype Blangonga Coat
+Prototype Estrellian Faulds
+Prototype Estrellian Coat
+Caeserber Faulds
+Caeserber Coat
+Velocidrome Faulds
+Velocidrome Coat
+Bulldrome Faulds
+Bulldrome Coat
+Yian Kut-Ku Faulds
+Yian Kut-Ku Coat
+Gendrome Faulds
+Gendrome Coat
+Baelidae Faulds
+Baelidae Coat
+Yellow Caeserber Faulds
+Yellow Caeserber Coat
+Gypceros Faulds
+Gypceros Coat
+Congalala Faulds
+Congalala Coat
+Chramine Faulds
+Chramine Coat
+Cephadrome Faulds
+Cephadrome Coat
+Hermitaur Faulds
+Hermitaur Coat
+Iodrome Faulds
+Iodrome Coat
+Blue Kut-Ku Faulds
+Blue Kut-Ku Coat
+Khezu Faulds
+Khezu Coat
+Basarios Faulds
+Basarios Coat
+Hypnocatrice Faulds
+Hypnocatrice Coat
+Gold Congalala Faulds
+Gold Congalala Coat
+Dread Baelidae Faulds
+Dread Baelidae Coat
+Purple Gypceros Faulds
+Purple Gypceros Coat
+Shogun Ceanataur Faulds
+Shogun Ceanataur Coat
+Blangonga Faulds
+Blangonga Coat
+Estrellian Faulds
+Estrellian Coat
+Giadrome Faulds
+Giadrome Coat
+Ice Chramine Faulds
+Ice Chramine Coat
+Silver Hypnocatrice Faulds
+Silver Hypnocatrice Coat
+Ghost Caeserber Faulds
+Ghost Caeserber Coat
+Swordmaster Shogun Ceanataur Faulds
+Swordmaster Shogun Ceanataur Coat
+Crystal Basarios Faulds
+Crystal Basarios Coat
+Akura Vashimu Faulds
+Akura Vashimu Coat
+Yian Garuga Faulds
+Yian Garuga Coat
+Red Khezu Faulds
+Red Khezu Coat
+Monoblos Faulds
+Monoblos Coat
+Doom Estrellian Faulds
+Doom Estrellian Coat
+Rathian Faulds
+Rathian Coat
+One-Eared Garuga Faulds
+One-Eared Garuga Coat
+Shattered Monoblos Faulds
+Shattered Monoblos Coat
+Conflagration Rathian Faulds
+Conflagration Rathian Coat
+Tartaronis Faulds
+Tartaronis Coat
+Shen Gaoren Faulds
+Shen Gaoren Coat
+Red Shen Gaoren Faulds
+Red Shen Gaoren Coat
+True Dawnwind Faulds
+True Dawnwind Coat
+Slicemargl Faulds
+Slicemargl Coat
+Lightenna Faulds
+Lightenna Coat
+Rathalos Faulds
+Rathalos Coat
+Tigrex Faulds
+Tigrex Coat
+Plesioth Faulds
+Plesioth Coat
+Diablos Faulds
+Diablos Coat
+Azure Rathalos Faulds
+Azure Rathalos Coat
+Akura Jebia Faulds
+Akura Jebia Coat
+Kushala Daora Faulds
+Kushala Daora Coat
+Sandstone Basarios Faulds
+Sandstone Basarios Coat
+Golden Hypnoc Faulds
+Golden Hypnoc Coat
+Pink Rathian Faulds
+Pink Rathian Coat
+Merphistophelin Faulds
+Merphistophelin Coat
+Flame Blangonga Faulds
+Flame Blangonga Coat
+Chameleos Faulds
+Chameleos Coat
+Lavasioth Faulds
+Lavasioth Coat
+White Monoblos Faulds
+White Monoblos Coat
+Purple Slicemargl Faulds
+Purple Slicemargl Coat
+Rajang Faulds
+Rajang Coat
+V.Tartaronis Faulds
+V.Tartaronis Coat
+Gravios Faulds
+Gravios Coat
+Ele Merphistophelin Faulds
+Ele Merphistophelin Coat
+GonnGenn Hermitaur Faulds
+GonnGenn Hermitaur Coat
+Rusted Kushala Daora Faulds
+Rusted Kushala Daora Coat
+Yama Tsukami Faulds
+Yama Tsukami Coat
+Zinogre Faulds
+Zinogre Coat
+Onimusha Faulds
+Onimusha Coat
+Arbiter Estrellian Faulds
+Arbiter Estrellian Coat
+Barioth Faulds
+Barioth Coat
+Deviljho Faulds
+Deviljho Coat
+Kirin Faulds
+Kirin Coat
+Lao-Shan Lung Faulds
+Lao-Shan Lung Coat
+Caeserber Waist S
+Velocidrome Waist S
+Bulldrome Waist S
+Yian Kut-ku Waist S
+Gendrome Waist S
+Baelidae Waist S
+Yellow Caeserber Waist S
+Gypceros Waist S
+Congalala Waist S
+Cephadrome Waist S
+Chramine Waist S
+Hermitaur Waist S
+Ceanataur Waist S
+Ghost Caeserber Waist S
+Swordmaster Ceanataur Waist S
+Ice Chramine Waist S
+Yian Garuga Waist S
+Basarios Waist S
+Dread Baelidae Waist S
+Gold Congalala Waist S
+Blue Kut-Ku Waist S
+Purple Gypceros Waist S
+Khezu Waist S
+Hypnocatrice Waist S
+Blangonga Waist S
+Red Khezu Waist S
+Crystal Basarios Waist S
+Silver Hypnocatrice Waist S
+One-Eared Garuga Waist S
+Lightenna Waist S
+Pariapuria Waist S
+Rathian Waist S
+Monoblos Waist S
+Shattered Monoblos Waist S
+Akura Vashimu Waist S
+Estrellian Waist S
+Uragaan Waist S
+Plesioth Waist S
