@@ -169,6 +169,10 @@ private: System::ComponentModel::IContainer^  components;
 			this->btnMoveUp = (gcnew System::Windows::Forms::Button());
 			this->btnMoveDown = (gcnew System::Windows::Forms::Button());
 			this->groupBox1 = (gcnew System::Windows::Forms::GroupBox());
+			this->btnJap3 = (gcnew System::Windows::Forms::Button());
+			this->cmbSkillFilters3 = (gcnew System::Windows::Forms::ComboBox());
+			this->cmbSkills3 = (gcnew System::Windows::Forms::ComboBox());
+			this->cmbAmount3 = (gcnew System::Windows::Forms::ComboBox());
 			this->btnReset = (gcnew System::Windows::Forms::Button());
 			this->btnJap2 = (gcnew System::Windows::Forms::Button());
 			this->btnJap1 = (gcnew System::Windows::Forms::Button());
@@ -180,19 +184,15 @@ private: System::ComponentModel::IContainer^  components;
 			this->btnSort1 = (gcnew System::Windows::Forms::Button());
 			this->btnTrim = (gcnew System::Windows::Forms::Button());
 			this->btnDeleteAll = (gcnew System::Windows::Forms::Button());
-			this->cmbAmount3 = (gcnew System::Windows::Forms::ComboBox());
-			this->cmbSkills3 = (gcnew System::Windows::Forms::ComboBox());
-			this->cmbSkillFilters3 = (gcnew System::Windows::Forms::ComboBox());
-			this->btnJap3 = (gcnew System::Windows::Forms::Button());
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^  >(this->nudSlots))->BeginInit();
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->nudSlots))->BeginInit();
 			this->groupBox1->SuspendLayout();
 			this->groupBox2->SuspendLayout();
 			this->SuspendLayout();
 			// 
 			// lstCharms
 			// 
-			this->lstCharms->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom) 
-				| System::Windows::Forms::AnchorStyles::Left) 
+			this->lstCharms->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Bottom)
+				| System::Windows::Forms::AnchorStyles::Left)
 				| System::Windows::Forms::AnchorStyles::Right));
 			this->lstCharms->DrawMode = System::Windows::Forms::DrawMode::OwnerDrawFixed;
 			this->lstCharms->FormattingEnabled = true;
@@ -216,9 +216,8 @@ private: System::ComponentModel::IContainer^  components;
 			// nudSlots
 			// 
 			this->nudSlots->Anchor = static_cast<System::Windows::Forms::AnchorStyles>((System::Windows::Forms::AnchorStyles::Bottom | System::Windows::Forms::AnchorStyles::Left));
-			this->nudSlots->Enabled = false;
 			this->nudSlots->Location = System::Drawing::Point(41, 103);
-			this->nudSlots->Maximum = System::Decimal(gcnew cli::array< System::Int32 >(4) {3, 0, 0, 0});
+			this->nudSlots->Maximum = System::Decimal(gcnew cli::array< System::Int32 >(4) { 3, 0, 0, 0 });
 			this->nudSlots->Name = L"nudSlots";
 			this->nudSlots->Size = System::Drawing::Size(31, 20);
 			this->nudSlots->TabIndex = 8;
@@ -272,8 +271,10 @@ private: System::ComponentModel::IContainer^  components;
 			// cmbAmount1
 			// 
 			this->cmbAmount1->FormattingEnabled = true;
-			this->cmbAmount1->Items->AddRange(gcnew cli::array< System::Object^  >(15) {L"0", L"1", L"2", L"3", L"4", L"5", L"6", L"7", 
-				L"8", L"9", L"10", L"11", L"12", L"13", L"14"});
+			this->cmbAmount1->Items->AddRange(gcnew cli::array< System::Object^  >(15) {
+				L"0", L"1", L"2", L"3", L"4", L"5", L"6", L"7",
+					L"8", L"9", L"10", L"11", L"12", L"13", L"14"
+			});
 			this->cmbAmount1->Location = System::Drawing::Point(6, 19);
 			this->cmbAmount1->MaxLength = 3;
 			this->cmbAmount1->Name = L"cmbAmount1";
@@ -283,8 +284,10 @@ private: System::ComponentModel::IContainer^  components;
 			// cmbAmount2
 			// 
 			this->cmbAmount2->FormattingEnabled = true;
-			this->cmbAmount2->Items->AddRange(gcnew cli::array< System::Object^  >(25) {L"0", L"1", L"2", L"3", L"4", L"5", L"6", L"7", 
-				L"8", L"9", L"10", L"11", L"12", L"13", L"14", L"-1", L"-2", L"-3", L"-4", L"-5", L"-6", L"-7", L"-8", L"-9", L"-10"});
+			this->cmbAmount2->Items->AddRange(gcnew cli::array< System::Object^  >(25) {
+				L"0", L"1", L"2", L"3", L"4", L"5", L"6", L"7",
+					L"8", L"9", L"10", L"11", L"12", L"13", L"14", L"-1", L"-2", L"-3", L"-4", L"-5", L"-6", L"-7", L"-8", L"-9", L"-10"
+			});
 			this->cmbAmount2->Location = System::Drawing::Point(6, 46);
 			this->cmbAmount2->MaxLength = 3;
 			this->cmbAmount2->Name = L"cmbAmount2";
@@ -326,7 +329,7 @@ private: System::ComponentModel::IContainer^  components;
 			// 
 			// groupBox1
 			// 
-			this->groupBox1->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left) 
+			this->groupBox1->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Top | System::Windows::Forms::AnchorStyles::Left)
 				| System::Windows::Forms::AnchorStyles::Right));
 			this->groupBox1->Controls->Add(this->btnJap3);
 			this->groupBox1->Controls->Add(this->cmbSkillFilters3);
@@ -350,6 +353,53 @@ private: System::ComponentModel::IContainer^  components;
 			this->groupBox1->Size = System::Drawing::Size(366, 136);
 			this->groupBox1->TabIndex = 14;
 			this->groupBox1->TabStop = false;
+			// 
+			// btnJap3
+			// 
+			this->btnJap3->Location = System::Drawing::Point(306, 72);
+			this->btnJap3->Name = L"btnJap3";
+			this->btnJap3->Size = System::Drawing::Size(43, 23);
+			this->btnJap3->TabIndex = 15;
+			this->btnJap3->Text = L"Chn\?";
+			this->btnJap3->UseVisualStyleBackColor = true;
+			this->btnJap3->Click += gcnew System::EventHandler(this, &ManageCharms::btnJap_Click);
+			// 
+			// cmbSkillFilters3
+			// 
+			this->cmbSkillFilters3->AutoCompleteMode = System::Windows::Forms::AutoCompleteMode::Suggest;
+			this->cmbSkillFilters3->AutoCompleteSource = System::Windows::Forms::AutoCompleteSource::ListItems;
+			this->cmbSkillFilters3->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
+			this->cmbSkillFilters3->FormattingEnabled = true;
+			this->cmbSkillFilters3->Location = System::Drawing::Point(190, 73);
+			this->cmbSkillFilters3->Name = L"cmbSkillFilters3";
+			this->cmbSkillFilters3->Size = System::Drawing::Size(110, 21);
+			this->cmbSkillFilters3->TabIndex = 14;
+			this->cmbSkillFilters3->SelectedIndexChanged += gcnew System::EventHandler(this, &ManageCharms::cmbSkillFilters3_SelectedIndexChanged);
+			// 
+			// cmbSkills3
+			// 
+			this->cmbSkills3->AutoCompleteMode = System::Windows::Forms::AutoCompleteMode::Suggest;
+			this->cmbSkills3->AutoCompleteSource = System::Windows::Forms::AutoCompleteSource::ListItems;
+			this->cmbSkills3->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
+			this->cmbSkills3->FormattingEnabled = true;
+			this->cmbSkills3->Location = System::Drawing::Point(52, 73);
+			this->cmbSkills3->Name = L"cmbSkills3";
+			this->cmbSkills3->Size = System::Drawing::Size(132, 21);
+			this->cmbSkills3->TabIndex = 13;
+			this->cmbSkills3->SelectedIndexChanged += gcnew System::EventHandler(this, &ManageCharms::cmbSkills3_SelectedIndexChanged);
+			// 
+			// cmbAmount3
+			// 
+			this->cmbAmount3->FormattingEnabled = true;
+			this->cmbAmount3->Items->AddRange(gcnew cli::array< System::Object^  >(25) {
+				L"0", L"1", L"2", L"3", L"4", L"5", L"6", L"7",
+					L"8", L"9", L"10", L"11", L"12", L"13", L"14", L"-1", L"-2", L"-3", L"-4", L"-5", L"-6", L"-7", L"-8", L"-9", L"-10"
+			});
+			this->cmbAmount3->Location = System::Drawing::Point(6, 73);
+			this->cmbAmount3->MaxLength = 3;
+			this->cmbAmount3->Name = L"cmbAmount3";
+			this->cmbAmount3->Size = System::Drawing::Size(40, 21);
+			this->cmbAmount3->TabIndex = 12;
 			// 
 			// btnReset
 			// 
@@ -408,7 +458,7 @@ private: System::ComponentModel::IContainer^  components;
 			// 
 			// groupBox2
 			// 
-			this->groupBox2->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Bottom | System::Windows::Forms::AnchorStyles::Left) 
+			this->groupBox2->Anchor = static_cast<System::Windows::Forms::AnchorStyles>(((System::Windows::Forms::AnchorStyles::Bottom | System::Windows::Forms::AnchorStyles::Left)
 				| System::Windows::Forms::AnchorStyles::Right));
 			this->groupBox2->Controls->Add(this->btnSort2);
 			this->groupBox2->Controls->Add(this->btnImport);
@@ -480,51 +530,6 @@ private: System::ComponentModel::IContainer^  components;
 			this->btnDeleteAll->UseVisualStyleBackColor = true;
 			this->btnDeleteAll->Click += gcnew System::EventHandler(this, &ManageCharms::btnDeleteAll_Click);
 			// 
-			// cmbAmount3
-			// 
-			this->cmbAmount3->FormattingEnabled = true;
-			this->cmbAmount3->Items->AddRange(gcnew cli::array< System::Object^  >(25) {L"0", L"1", L"2", L"3", L"4", L"5", L"6", L"7", 
-				L"8", L"9", L"10", L"11", L"12", L"13", L"14", L"-1", L"-2", L"-3", L"-4", L"-5", L"-6", L"-7", L"-8", L"-9", L"-10"});
-			this->cmbAmount3->Location = System::Drawing::Point(6, 73);
-			this->cmbAmount3->MaxLength = 3;
-			this->cmbAmount3->Name = L"cmbAmount3";
-			this->cmbAmount3->Size = System::Drawing::Size(40, 21);
-			this->cmbAmount3->TabIndex = 12;
-			// 
-			// cmbSkills3
-			// 
-			this->cmbSkills3->AutoCompleteMode = System::Windows::Forms::AutoCompleteMode::Suggest;
-			this->cmbSkills3->AutoCompleteSource = System::Windows::Forms::AutoCompleteSource::ListItems;
-			this->cmbSkills3->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
-			this->cmbSkills3->FormattingEnabled = true;
-			this->cmbSkills3->Location = System::Drawing::Point(52, 73);
-			this->cmbSkills3->Name = L"cmbSkills3";
-			this->cmbSkills3->Size = System::Drawing::Size(132, 21);
-			this->cmbSkills3->TabIndex = 13;
-			this->cmbSkills3->SelectedIndexChanged += gcnew System::EventHandler(this, &ManageCharms::cmbSkills3_SelectedIndexChanged);
-			// 
-			// cmbSkillFilters3
-			// 
-			this->cmbSkillFilters3->AutoCompleteMode = System::Windows::Forms::AutoCompleteMode::Suggest;
-			this->cmbSkillFilters3->AutoCompleteSource = System::Windows::Forms::AutoCompleteSource::ListItems;
-			this->cmbSkillFilters3->DropDownStyle = System::Windows::Forms::ComboBoxStyle::DropDownList;
-			this->cmbSkillFilters3->FormattingEnabled = true;
-			this->cmbSkillFilters3->Location = System::Drawing::Point(190, 73);
-			this->cmbSkillFilters3->Name = L"cmbSkillFilters3";
-			this->cmbSkillFilters3->Size = System::Drawing::Size(110, 21);
-			this->cmbSkillFilters3->TabIndex = 14;
-			this->cmbSkillFilters3->SelectedIndexChanged += gcnew System::EventHandler(this, &ManageCharms::cmbSkillFilters3_SelectedIndexChanged);
-			// 
-			// btnJap3
-			// 
-			this->btnJap3->Location = System::Drawing::Point(306, 72);
-			this->btnJap3->Name = L"btnJap3";
-			this->btnJap3->Size = System::Drawing::Size(43, 23);
-			this->btnJap3->TabIndex = 15;
-			this->btnJap3->Text = L"Chn\?";
-			this->btnJap3->UseVisualStyleBackColor = true;
-			this->btnJap3->Click += gcnew System::EventHandler(this, &ManageCharms::btnJap_Click);
-			// 
 			// ManageCharms
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
@@ -534,7 +539,7 @@ private: System::ComponentModel::IContainer^  components;
 			this->Controls->Add(this->groupBox1);
 			this->Name = L"ManageCharms";
 			this->Text = L"My Charms";
-			(cli::safe_cast<System::ComponentModel::ISupportInitialize^  >(this->nudSlots))->EndInit();
+			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->nudSlots))->EndInit();
 			this->groupBox1->ResumeLayout(false);
 			this->groupBox1->PerformLayout();
 			this->groupBox2->ResumeLayout(false);

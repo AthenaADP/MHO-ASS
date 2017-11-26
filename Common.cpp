@@ -304,6 +304,9 @@ namespace Utility
 
 	void UpdateContextMenu( ContextMenuStrip^ strip, String^ charm, const unsigned table )
 	{
+		if (!CharmDatabase::location_cache)
+			return;
+
 		CharmLocationDatum^ results;
 		if( CharmDatabase::location_cache->ContainsKey( charm ) )
 			results = CharmDatabase::location_cache[ charm ];
